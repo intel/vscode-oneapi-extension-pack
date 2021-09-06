@@ -1,4 +1,4 @@
-# Extension Pack for Intel oneAPI Toolkits
+# Extension Pack for Intel(R) oneAPI Toolkits
 
 An extension to expose additional features of GPU debugging with GDB for Intel(R) oneAPI.
 
