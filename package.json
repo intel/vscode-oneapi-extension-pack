@@ -24,6 +24,7 @@
         "intel-corporation.oneapi-environment-variables",
         "intel-corporation.oneapi-devcloud-connect",
         "intel-corporation.oneapi-gdb-debug",
-        "intel-corporation.oneapi-launch-configurator"
+        "intel-corporation.oneapi-launch-configurator",
+        "intel-corporation.oneapi-samples"
     ]
 }
