@@ -10,7 +10,9 @@
         "oneapi",
         "Advisor",
         "vtune",
-        "iot"
+        "iot",
+        "debug",
+        "gdb"
     ],
     "engines": {
         "vscode": "^1.56.0"
