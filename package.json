@@ -1,0 +1,27 @@
+{
+    "name": "oneapi-extension-pack",
+    "displayName": "Extension Pack for Intel(R) oneAPI Toolkits",
+    "description": "An extension to expose additional features of GPU debugging with GDB for Intel(R) oneAPI.",
+    "publisher": "intel-corporation",
+    "license": "MIT",
+    "version": "0.0.1",
+    "keywords": [
+        "intel",
+        "oneapi",
+        "Advisor",
+        "vtune",
+        "iot"
+    ],
+    "engines": {
+        "vscode": "^1.56.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "intel-corporation.oneapi-environment-variables",
+        "intel-corporation.oneapi-devcloud-connect",
+        "intel-corporation.oneapi-gdb-debug",
+        "intel-corporation.oneapi-launch-configurator"
+    ]
+}

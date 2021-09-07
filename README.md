@@ -3,16 +3,22 @@
 An extension to expose additional features of GPU debugging with GDB for Intel(R) oneAPI.
 
 
-## How to use
-1.
+## This extension pack includes:
+* [Environment Configurator for Intel® oneAPI Toolkits](https://github.com/intel/vscode-oneapi-environment-configurator)
 
-## Contributing
-Install Visual Studio Code (at least version 1.42) and open this project within it. You also need `node + npm`.
-- Switch to project root folder
-- `npm install`
-- `code .`
+This extension configures the system environment and settings for Intel(R) oneAPI toolkits and their products.
 
-At this point you should be able to run the extension in the "Extension Development Host".
+* [Analysis Configurator for Intel® oneAPI Toolkits](https://github.com/intel/vscode-oneapi-analysis-configurator)
+
+This is an extension for seamless integration with Intel(R) analysis tools including the Intel(R) VTune™ Profiler, Intel(R) Advisor and makes it easier to configure oneAPI projects for build, run, and debug in Visual Studio Code* (VS Code).
+
+* [GDB GPU Support for Intel® oneAPI Toolkits](https://github.com/intel/vscode-oneapi-gdb-debug)
+
+An extension to expose additional features of GPU debugging with GDB for Intel(R) oneAPI.
+
+* [DevCloud Connector for Intel® oneAPI Toolkits](https://github.com/intel/vscode-oneapi-devcloud-connector)
+
+This extension assists with configuring and establishing a VSCode Remote-SSH connection to the oneAPI DevCloud development environment.
 
 ## License
 This extension is released under the MIT License.
