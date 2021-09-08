@@ -21,10 +21,10 @@
         "Extension Packs"
     ],
     "extensionPack": [
-        "intel-corporation.oneapi-environment-variables",
-        "intel-corporation.oneapi-devcloud-connect",
+        "intel-corporation.oneapi-environment-configurator",
+        "intel-corporation.vscode-oneapi-devcloud-connector",
         "intel-corporation.oneapi-gdb-debug",
-        "intel-corporation.oneapi-launch-configurator",
+        "intel-corporation.oneapi-analysis-configurator",
         "intel-corporation.oneapi-samples"
     ]
 }
