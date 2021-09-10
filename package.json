@@ -4,6 +4,7 @@
     "description": "An extension to expose additional features of GPU debugging with GDB for Intel(R) oneAPI.",
     "publisher": "intel-corporation",
     "license": "MIT",
+    "icon": "media/oneapi-logo.png",
     "version": "0.0.1",
     "keywords": [
         "intel",
@@ -26,5 +27,9 @@
         "intel-corporation.oneapi-gdb-debug",
         "intel-corporation.oneapi-analysis-configurator",
         "intel-corporation.oneapi-samples"
-    ]
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/intel/vscode-oneapi-environment-configurator.git"
+    }
 }
