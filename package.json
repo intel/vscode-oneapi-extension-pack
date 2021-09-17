@@ -30,6 +30,6 @@
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/intel/vscode-oneapi-environment-configurator.git"
+        "url": "https://github.com/intel/vscode-oneapi-extension-pack.git"
     }
 }
