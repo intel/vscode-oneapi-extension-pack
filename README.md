@@ -16,9 +16,9 @@ This is an extension for seamless integration with Intel(R) analysis tools inclu
 
 An extension to expose additional features of GPU debugging with GDB for Intel(R) oneAPI.
 
-* [DevCloud Connector for Intel® oneAPI Toolkits](https://github.com/intel/vscode-vscode-oneapi-devcloud-connectoror)
+* [DevCloud Connector for Intel® oneAPI Toolkits](https://github.com/intel/vscode-oneapi-devcloud-connector)
 
-This extension assists with configuring and establishing a VSCode Remote-SSH connection to the oneAPI DevCloud development environment.
+This extension assists with configuring and establishing a VS Code Remote-SSH connection to the Intel® DevCloud development environment.
 
 ## License
 This extension is released under the MIT License.
