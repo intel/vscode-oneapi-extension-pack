@@ -1,6 +1,6 @@
 # Extension Pack for Intel(R) oneAPI Toolkits
 
-An extension to expose additional features of GPU debugging with GDB for Intel(R) oneAPI.
+Now all available VSCode extensions for oneAPI can be installed with one click using the Extension Pack for Intel oneAPI Toolkits installation.
 
 
 ## This extension pack includes:
