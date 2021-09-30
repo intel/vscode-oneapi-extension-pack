@@ -20,6 +20,10 @@ An extension to expose additional features of GPU debugging with GDB for Intel(R
 
 This extension assists with configuring and establishing a VS Code Remote-SSH connection to the Intel® DevCloud development environment.
 
+* [Code Sample Browser for Intel® oneAPI Toolkits](https://github.com/intel/vscode-sample-browser)
+
+The Sample Browser extension helps you discover and create oneAPI projects that illustrate how to implement algorithms and applications with the oneAPI collection of compilers, libraries and tools. Samples are written in C/C++, Fortran and Python.
+
 ## License
 This extension is released under the MIT License.
 
