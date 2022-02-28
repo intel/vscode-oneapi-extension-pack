@@ -16,7 +16,7 @@
         "gdb"
     ],
     "engines": {
-        "vscode": "^1.56.0"
+        "vscode": "^1.64.0"
     },
     "categories": [
         "Extension Packs"
