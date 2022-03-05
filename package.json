@@ -5,7 +5,7 @@
     "publisher": "intel-corporation",
     "license": "MIT",
     "icon": "media/oneapi-logo.png",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "keywords": [
         "intel",
         "oneapi",
