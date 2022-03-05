@@ -1,6 +1,6 @@
 # Extension Pack for Intel(R) oneAPI Toolkits
 
-Now all available VSCode extensions for oneAPI can be installed with one click using the Extension Pack for Intel oneAPI Toolkits installation.
+Now all available VSCode extensions for Intel oneAPI Toolkits can be installed with one click.
 
 
 ## This extension pack includes:

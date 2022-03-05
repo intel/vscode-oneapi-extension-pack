@@ -1,7 +1,7 @@
 {
     "name": "oneapi-extension-pack",
     "displayName": "Extension Pack for Intel(R) oneAPI Toolkits",
-    "description": "An extension to expose additional features of GPU debugging with GDB for Intel(R) oneAPI.",
+    "description": "A pack containing all available VSCode extensions for Intel(R) oneAPI Toolkits.",
     "publisher": "intel-corporation",
     "license": "MIT",
     "icon": "media/oneapi-logo.png",
