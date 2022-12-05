@@ -1,4 +1,4 @@
-# Extension Pack for Intel(R) oneAPI Toolkits
+# Extension Pack for Intel® oneAPI Toolkits
 
 Now all available VSCode extensions for Intel oneAPI Toolkits can be installed with one click.
 
@@ -6,17 +6,17 @@ Now all available VSCode extensions for Intel oneAPI Toolkits can be installed w
 ## This extension pack includes:
 * [Environment Configurator for Intel® oneAPI Toolkits](https://github.com/intel/vscode-oneapi-environment-configurator)
 
-This extension configures the system environment and settings for Intel(R) oneAPI toolkits and their products.
+This extension configures the system environment and settings for Intel® oneAPI toolkits and their products.
 
 * [Analysis Configurator for Intel® oneAPI Toolkits](https://github.com/intel/vscode-oneapi-analysis-configurator)
 
-This is an extension for seamless integration with Intel(R) analysis tools including the Intel(R) VTune™ Profiler, Intel(R) Advisor and makes it easier to configure oneAPI projects for build, run, and debug in Visual Studio Code* (VS Code).
+This is an extension for seamless integration with Intel® analysis tools including the Intel® VTune™ Profiler, Intel® Advisor and makes it easier to configure oneAPI projects for build, run, and debug in Visual Studio Code* (VS Code).
 
-* [GDB GPU Support for Intel® oneAPI Toolkits](https://github.com/intel/vscode-oneapi-gdb-debug)
+* [GDB with GPU Debug Support for Intel® oneAPI Toolkits](https://github.com/intel/vscode-oneapi-gdb-debug)
 
-An extension to expose additional features of GPU debugging with GDB for Intel(R) oneAPI.
+An extension to expose additional features of GPU debugging with GDB for Intel® oneAPI.
 
-* [DevCloud Connector for Intel® oneAPI Toolkits](https://github.com/intel/vscode-oneapi-devcloud-connector)
+* [Intel® Developer Cloud Connector for Intel® oneAPI Toolkits](https://github.com/intel/vscode-oneapi-devcloud-connector)
 
 This extension assists with configuring and establishing a VS Code Remote-SSH connection to the Intel® DevCloud development environment.
 

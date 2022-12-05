@@ -1,7 +1,7 @@
 {
     "name": "oneapi-extension-pack",
-    "displayName": "Extension Pack for Intel(R) oneAPI Toolkits",
-    "description": "A pack containing all available VSCode extensions for Intel(R) oneAPI Toolkits.",
+    "displayName": "Extension Pack for Intel® oneAPI Toolkits",
+    "description": "A pack containing all available VSCode extensions for Intel® oneAPI Toolkits.",
     "publisher": "intel-corporation",
     "license": "MIT",
     "icon": "media/oneapi-logo.png",
