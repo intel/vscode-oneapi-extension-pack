@@ -1,11 +1,11 @@
 {
     "name": "oneapi-extension-pack",
-    "displayName": "Extension Pack for Intel(R) oneAPI Toolkits",
+    "displayName": "Extension Pack for Intel Software Developer Tools",
     "description": "A pack containing all available VSCode extensions for Intel(R) oneAPI Toolkits.",
     "publisher": "intel-corporation",
     "license": "MIT",
     "icon": "media/oneapi-logo.png",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "keywords": [
         "intel",
         "oneapi",
@@ -16,7 +16,7 @@
         "gdb"
     ],
     "engines": {
-        "vscode": "^1.64.0"
+        "vscode": "^1.81.0"
     },
     "categories": [
         "Extension Packs"
