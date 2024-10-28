@@ -22,11 +22,6 @@ Code).
 An extension to expose additional features of GPU debugging with GDB for
 Intel® oneAPI.
 
-* [DevCloud Connector for Intel® oneAPI Toolkits](https://github.com/intel/vscode-oneapi-devcloud-connector)
-
-This extension assists with configuring and establishing a VS Code Remote-SSH
-connection to the Intel® DevCloud development environment.
-
 * [Code Sample Browser for Intel Software Developer Tools](https://github.com/intel/vscode-sample-browser)
 
 The Sample Browser extension helps you discover and create oneAPI projects
