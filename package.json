@@ -5,7 +5,7 @@
     "publisher": "intel-corporation",
     "license": "MIT",
     "icon": "media/oneapi-logo.png",
-    "version": "0.0.6",
+    "version": "0.0.7",
     "keywords": [
         "intel",
         "oneapi",
@@ -23,7 +23,6 @@
     ],
     "extensionPack": [
         "intel-corporation.oneapi-environment-configurator",
-        "intel-corporation.vscode-oneapi-devcloud-connector",
         "intel-corporation.oneapi-gdb-debug",
         "intel-corporation.oneapi-analysis-configurator",
         "intel-corporation.oneapi-samples"
