@@ -5,15 +5,12 @@
     "publisher": "intel-corporation",
     "license": "MIT",
     "icon": "media/oneapi-logo.png",
-    "version": "0.0.8",
+    "version": "0.0.9",
     "keywords": [
         "intel",
         "oneapi",
         "Advisor",
-        "vtune",
-        "iot",
-        "debug",
-        "gdb"
+        "vtune"
     ],
     "engines": {
         "vscode": "^1.81.0"
@@ -23,7 +20,6 @@
     ],
     "extensionPack": [
         "intel-corporation.oneapi-environment-configurator",
-        "intel-corporation.oneapi-gdb-debug",
         "intel-corporation.oneapi-analysis-configurator",
         "intel-corporation.oneapi-samples"
     ],
