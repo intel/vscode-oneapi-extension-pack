@@ -17,11 +17,6 @@ including the Intel® VTune™ Profiler, Intel® Advisor and makes it easier to
 configure oneAPI projects for build, run, and debug in Visual Studio Code* (VS
 Code).
 
-* [GDB GPU Support for Intel® oneAPI Toolkits](https://github.com/intel/vscode-oneapi-gdb-debug)
-
-An extension to expose additional features of GPU debugging with GDB for
-Intel® oneAPI.
-
 * [Code Sample Browser for Intel Software Developer Tools](https://github.com/intel/vscode-sample-browser)
 
 The Sample Browser extension helps you discover and create oneAPI projects
